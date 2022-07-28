@@ -1,0 +1,38 @@
+body{
+margin: 0%;
+}
+.header {
+    color: black;
+    background-image: url(../imgs/head1.jpg);
+    background-repeat: no-repeat;
+    padding: 10px;
+    background-size: cover;
+    height: 430px;
+    background-position: center;
+    font-size: medium;
+}
+.header h1{
+    font-size: 3rem;
+    margin: 0%;
+}
+.header p{
+    font-size: 2rem;
+    margin: 0%;
+}
+.productos{
+    width: 70%;
+    margin: 50px; 
+    padding: 20px;
+} 
+.footer{
+    color: white;
+    padding: 20px;
+    background-color: orangered;
+    background-position: center;
+    background-position-x: center;
+}  
+.footer h3{
+    font-style: oblique;
+    background-position: center;
+    text-align: center;
+}
